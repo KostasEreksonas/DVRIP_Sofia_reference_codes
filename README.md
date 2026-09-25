@@ -138,8 +138,8 @@ Table of Contents
 
 |Name|Code|Description|Payload|
 |----|----|-----------|-------|
-|ABILITY_GET|1360|System ability request|[System ability request](payloads/1360_system_function_request/)|
-|ABILITY_GET_RESP|1361|System ability response|[System ability response](payloads/1361_system_function_response/)|
+|ABILITY_GET|1360|System ability request|[System ability request](payloads/1360_system_ability_request/)|
+|ABILITY_GET_RESP|1361|System ability response|[System ability response](payloads/1361_system_ability_response/)|
 |SMARTH264_REQ|1362|Smart H264 request|[Smart H264 request](payloads/1362_SMARTH264_REQ/)|
 |SMARTH264_RESP|1363|Smart H264 response|[Smart H264 response](payloads/1363_SMARTH264_RESP/)|
 
@@ -278,8 +278,8 @@ Table of Contents
 |----|----|-----------|-------|
 |CONFIG_IMPORT_REQ|1540|Configure import request|Not yet observed|
 |CONFIG_IMPORT_RSP|1541|Configure import response|Not yet observed|
-|CONFIG_EXPORT_REQ|1542|Configure export request|[Configure export request](payloads/1542_empty_request.json)|
-|CONFIG_EXPORT_RSP|1543|Configure export request|[Configure export request](payloads/1543_empty_response.json)|
+|CONFIG_EXPORT_REQ|1542|Configure export request|[Configure export request](1542_configure_export_request.json)|
+|CONFIG_EXPORT_RSP|1543|Configure export request|[Configure export request](1543_configure_export_response.json)|
 |LOG_EXPORT_REQ|1544|Log export request|Not yet observed|
 |LOG_EXPORT_RSP|1545|Log export response|Not yet observed|
 
