@@ -1,0 +1,9 @@
+{
+    "Name": "OPSystemUpgrade",
+    "SessionID": "0x00000009",
+    "OPSystemUpgrade":
+    {
+        "Action": "Start",
+        "Type": "System"
+    }
+}

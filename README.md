@@ -234,8 +234,8 @@ Table of Contents
 |MODIFYUSER_RSP|1485|Modify user response|Not yet observed|
 |OPDELUSER_REQ|1486|OP delete user request|[OP delete user request](payloads/1486_OPUserDelete_request.json)|
 |OPDELUSER_RESP|1487|OP delete user response|[OP delete user response](payloads/1487_OPUserDelete_response.json)|
-|MODIFYPASSWORD_REQ|1488|Modify password request|Not yet observed|
-|MODIFYPASSWORD_RSP|1489|Modify password response|Not yet observed|
+|MODIFYPASSWORD_REQ|1488|Modify password request|[Modify password request](payloads/1488_ModifyPassword_request.json)|
+|MODIFYPASSWORD_RSP|1489|Modify password response|[Modify password response](payloads/1489_ModifyPassword_response.json)|
 
 ## Alarm Report (C21 Message Number)
 
@@ -255,13 +255,13 @@ Table of Contents
 
 |Name|Code|Description|Payload|
 |----|----|-----------|-------|
-|UPGRADE_REQ|1520|Upgrade request|Not yet observed|
+|UPGRADE_REQ|1520|Upgrade request|[System update request](payloads/1520_op_system_upgrade_request.json)|
 |UPGRADE_RSP|1521|Upgrade response|Not yet observed|
 |UPGRADE_DATA|1522|Upgrade data request|Not yet observed|
 |UPGRADE_DATA_RSP|1523|Upgrade data response|Not yet observed|
 |UPGRADE_PROGRESS|1524|Upgrade progress|Not yet observed|
-|UPGRADE_INFO_REQ|1525|System update info request|[System update info request](payloads/1525_op_system_upgrade_request.json)|
-|UPGRADE_INFO_RSP|1526|System upgrade info response|[System update info response](payloads/1526_op_system_upgrade_response.json)|
+|UPGRADE_INFO_REQ|1525|System update info request|[System update info request](payloads/1525_op_system_upgrade_info_request.json)|
+|UPGRADE_INFO_RSP|1526|System upgrade info response|[System update info response](payloads/1526_op_system_upgrade_info_response.json)|
 
 ## Automatic Device Discovery (C23 Message Number)
 
@@ -278,8 +278,8 @@ Table of Contents
 |----|----|-----------|-------|
 |CONFIG_IMPORT_REQ|1540|Configure import request|Not yet observed|
 |CONFIG_IMPORT_RSP|1541|Configure import response|Not yet observed|
-|CONFIG_EXPORT_REQ|1542|Configure export request|[Configure export request](1542_configure_export_request.json)|
-|CONFIG_EXPORT_RSP|1543|Configure export request|[Configure export request](1543_configure_export_response.json)|
+|CONFIG_EXPORT_REQ|1542|Configure export request|[Configure export request](payloads/1542_configure_export_request.json)|
+|CONFIG_EXPORT_RSP|1543|Configure export request|[Configure export request](payloads/1543_configure_export_response.json)|
 |LOG_EXPORT_REQ|1544|Log export request|Not yet observed|
 |LOG_EXPORT_RSP|1545|Log export response|Not yet observed|
 
